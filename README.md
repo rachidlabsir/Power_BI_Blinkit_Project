@@ -92,11 +92,15 @@ The “Total Sales by Item Type” chart provides a clear comparison of sales ac
 
 #### Total Sales by Outlet Establishment
 
+   ![image 9](https://github.com/user-attachments/assets/75357178-da82-4aef-af3a-798ab3cfbc2f)
+
 **Insight**:
 
 The “Total Sales by Outlet Establishment” chart shows the sales trends from 2011 to 2022. Sales started at $78K in 2011 and experienced fluctuations over the years. Notable peaks occurred in 2014 and 2016, both reaching $132K. The highest sales were recorded in 2018 at $205K, indicating a significant growth period. However, after 2018, there was a decline, with sales dropping to $129K by 2022. This trend suggests that while there were periods of strong growth, recent years have seen a downturn, which could be due to various market factors or changes in consumer behavior. Understanding these trends can help in strategizing future business decisions to regain and sustain growth.
 
 #### Sales by Outlet Size
+
+   [image 6](https://github.com/user-attachments/assets/019ab749-c28f-4070-b2ff-332f3a4518e5)
 
 **Insight**:
 
@@ -104,11 +108,15 @@ The “Sales by Outlet Size” chart provides a clear view of how sales are dist
 
 #### Sales by Outlet Location
 
+   ![image 7](https://github.com/user-attachments/assets/cd27cf19-9b67-4d86-8b46-884ad9cf25a0)
+
 **Insight**:
 
 The “Sales by Outlet Location” chart reveals that Tier 3 outlets lead in sales performance with $472.13K, followed by Tier 2 outlets at $393.15K, and Tier 1 outlets at $336.40K, which is about 71.3% of the sales benchmark set by Tier 3. This indicates that Tier 3 outlets, likely situated in high-traffic areas or having a larger customer base, are the most successful. In contrast, Tier 1 outlets, possibly in less busy locations, show room for improvement. Focusing on strategies that make Tier 3 outlets successful could help boost sales in Tier 1 and Tier 2 outlets.
 
 #### All Metrics by Outlet Type
+
+   ![image 8](https://github.com/user-attachments/assets/7bcf4384-54df-46cb-b82b-85e4a986d812)
 
 **Insight**:
 
