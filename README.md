@@ -47,6 +47,7 @@ Some of the steps include:
 
 **Total Sales and Average Unit Sales**
 
+   ![image 2](https://github.com/user-attachments/assets/1e2ac2b7-b4be-4e28-8d28-6122d5fa9c36)
 
 **Insight**:
 
@@ -54,7 +55,8 @@ The total sales amount of $1.20M indicates a strong revenue stream. The average 
 
 **Number of Items and Average Rating**
 
-
+   ![image 3](https://github.com/user-attachments/assets/7e1dc589-c9dc-4622-82f5-e0a3f1527608)
+   
 **Insight**:
 
 With 9K items sold and an average rating of 3.9, it shows that a wide variety of products are being offered and customers are generally satisfied with their purchases. This high average rating can be leveraged to promote customer trust and loyalty.
@@ -70,7 +72,8 @@ The donut chart reveals that regular fat products significantly outperform low-f
 
 #### Fat Content by Outlet for Total Sales
 
-
+   ![image 4](https://github.com/user-attachments/assets/e4c25f6f-2896-42cd-a05b-7e8e69d96ed0)
+   
 **Insight**:
 
 The “Fat Content by Outlet for Total Sales” chart provides valuable insights into how different types of outlets perform in terms of sales for low-fat and regular-fat content products.
@@ -81,6 +84,8 @@ This suggests that while low-fat products are generally more popular, certain ou
 
 #### Total Sales by Item Type
 
+   ![image 5](https://github.com/user-attachments/assets/813a3744-9a33-4421-bd57-4a04e87eb44b)
+   
 **Insight**:
 
 The “Total Sales by Item Type” chart provides a clear comparison of sales across various item categories. Snack Foods lead the sales with $0.18M, indicating a high consumer preference for these items. Household items follow with $0.14M in sales, showing their significant contribution to overall revenue. Frozen Foods and Dairy also perform well, with sales of $0.12M and $0.10M respectively. On the lower end, Seafood has the least sales at $0.01M, suggesting it is less popular among consumers. This distribution highlights the importance of focusing on high-performing categories like Snack Foods and Household items to maximize sales and revenue.
